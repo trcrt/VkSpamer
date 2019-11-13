@@ -9,7 +9,8 @@ Requires "config.json" file with a certain format:
     "message_delay_range": [10, 15],
     "skip_first_message": false,
     "access_token": ""
-}```
+}
+```
 target_id: id of target user/group;
 messages_file: path to file with messages;
 message_delay_range: delay between messages (in seconds);
